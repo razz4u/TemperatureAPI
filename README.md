@@ -28,3 +28,6 @@
    1. Unit tests
    2. Use of Docker/Containers 
        
+
+# Notes:
+server.js -> main driver file
